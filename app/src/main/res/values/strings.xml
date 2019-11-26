@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LabOctober7</string>
+    <string name="score_2">Score 2</string>
+    <string name="score_1">Score 1</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+
+
+    <!-- Settings -->
+    <string name="remember_tip_percent">Calculate Scores</string>
+    <string name="remember_tip_summary">Remembers the score for the most recent calculation.</string>
+    <string name="rounding_title">who wins?</string>
+    <string name="rounding_summary">Select who wins.</string>
+    <string-array name="rounding_keys">
+        <item>equal</item>
+        <item>Team 1</item>
+        <item>Team 2</item>
+    </string-array>
+    <string-array name="rounding_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string name="rounding_default">0</string>
+
+    <!-- About -->
+    <string name="info_title">About</string>
+    <string name="info_summary">This is a Scorekeeper App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
+
+
+

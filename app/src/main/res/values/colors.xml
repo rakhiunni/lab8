@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--  Common  -->
+    <color name="common_green">#4CAF50</color>
+    <color name="common_red">#DB1414</color>
+    <color name="common_magentha">#C633DF</color>
+    <color name="whole_background">#004D40</color>
+    <color name="score1_background">#006064</color>
+    <color name="score2_background">#01579B</color>
+    <color name="radiogroup_background">#FF80AB</color>
+    <color name="white">#fff</color>
+
+    <!--  Score 1  -->
+    <color name="score1_yellow">#FFEB3B</color>
+
+    <!--  Score 2  -->
+    <color name="score2_blue">#2A52C7</color>
+</resources>
